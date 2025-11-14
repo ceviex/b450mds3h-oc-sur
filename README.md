@@ -1,5 +1,5 @@
 # hackintosh
-EFI config for Ryzentosh
+EFI config for Ryzen PC Hack
 
 2600X, B450M-DS3H, Realtek Ethernet, RX580
 
